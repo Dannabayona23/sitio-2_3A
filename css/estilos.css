@@ -1,0 +1,40 @@
+body {
+    background: #A2CFEA;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #F3F3F3; /* Color de fondo del encabezado */
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+    color: #2B579A; /* Un azul tipo Microsoft */
+}
+
+footer{
+    background: #F3F3F3;
+    padding: 0.5em;
+}
+
+
+#wrapper {
+  padding: 20px;
+  }
+
+#slider1 img {
+    width: 660px;
+    height: 300px;
+}
